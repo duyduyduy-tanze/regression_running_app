@@ -456,3 +456,4 @@ else:
 
 st.divider()
 st.caption("Dữ liệu NIST chỉ là dữ liệu công bố bên ngoài phục vụ phần thảo luận, không nằm trong phân tích khảo sát này.")
+st.caption("Ứng dụng này không được sử dụng với mục đích thương mại")
